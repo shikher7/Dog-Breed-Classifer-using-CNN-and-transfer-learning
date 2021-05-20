@@ -46,9 +46,7 @@ The following datasets is used:
 
 ### Algorithms and Techniques
 
-In this project, firstly, we detected the image was human or dog. We used openCV’s
-Haar feature-based cascade classifiers for human detection and pre-trained VGG- 16
-model for dog breeds classifying.
+In this project, firstly, we detected the image as human or dog. Secondly, we classified the dog image as a dog breed. And also for the human image, the model classifies it to the closest dog breed similar to it. We used OpenCV's Haar feature-based cascade classifiers for human detection and a pre-trained VGG- 16 model for classifying dog breeds.
 
 CNNs are a kind of deep learning model that can learn to do things like image
 classification and object recognition. They keep track of spatial information and learn
