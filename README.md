@@ -86,8 +86,7 @@ making classification and Adam optimizer was selected.
 
 - My model reached 73% testing accuracy.
 
-I could try to improve my accuracy and precision , although my model reached the accuracy
-of 73% but in real use case user will want a more accurate mode. I can try different epoch number
+In real use case user will want a more accurate model. I can try different epoch number
 and architectures but this would require more computing power especially more powerful
 GPUs. For the transfer learning model, I could experiment with other pre-trained models
 and see if they perform better.
